@@ -1,0 +1,31 @@
+{
+  "name": "react-native-kiper-contacts",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiperTecnologia/react-native-kiper-contacts"
+  },
+  "description": "Library for get contacts list with params",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "nativePackage": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "react-component",
+    "contacts",
+    "android",
+    "contactslist"
+  ],
+  "author": "Kiper (www.kiper.com.br)",
+  "contributors": [
+    "David Dimon <david.dimon@kiper.com.br>"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
