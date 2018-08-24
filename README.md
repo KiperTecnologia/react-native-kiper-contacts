@@ -52,6 +52,8 @@ const searchContactsExample = async () => {
 };
 ```
 
+## Example
+https://github.com/KiperTecnologia/contactsExample
 ## Credits
 
 www.kiper.com.br
